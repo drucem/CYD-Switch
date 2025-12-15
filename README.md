@@ -1,6 +1,6 @@
 # CYD-Switch
 
-Overall architecture
+## Overall architecture
 
 Platform / tools
 
@@ -45,7 +45,7 @@ For QR: HomeSpan already calculates the X-HM://… payload for you and prints it
 GitHub
 +1
 
-2. Libraries you’ll need
+## Libraries you’ll need
 
 Install via Arduino Library Manager:
 
@@ -61,7 +61,7 @@ Medium
 
 Copy the correct one to User_Setup.h (or include it from there).
 
-3. Example sketch: CYD HomeKit Switch + LCD UI
+## Example sketch: CYD HomeKit Switch + LCD UI
 
 This is a single-file Arduino sketch (cyd_hk_switch.ino) that:
 
